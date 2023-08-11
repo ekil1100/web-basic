@@ -27,23 +27,23 @@
 ## github
 
 - git - version control system
-- add - stage
-- commit - 提交到分支
-- push - to remote
-- pull - from remote
-- branch - 分支
-- merge - 分支之间的合并
-- stash - 临时修改的 commit
+- `git add` - stage a file
+- `git commit -m ''` - 提交到分支
+- `git push` - to remote
+- `git pull` - from remote
+- `git branch` - 查看分支
+- `git merge` - 分支之间的合并
+- `git stash` - 临时修改的 commit
 - repository - 库
 - remote/local
 
 ## development
 
-- rm -rf aboutme
-- git clone https://github.com/loo-y/aboutme.git
-- cd aboutme
-- npm i - install dependencies
-- npm run dev - run dev script
+- `rm -rf aboutme`
+- `git clone https://github.com/loo-y/aboutme.git`
+- `cd aboutme`
+- `npm i` - install dependencies
+- `npm run dev` - run dev script
 
 ## deploy
 
