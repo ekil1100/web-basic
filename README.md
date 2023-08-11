@@ -8,6 +8,10 @@
 - vue/react/angular/solidjs(solid starter)/sveltejs(svelte kit)/astro - framework/lib
 - nuxt.js/next.js - meta framework
 
+- MDN - https://developer.mozilla.org/zh-CN/
+- JS 入门 - https://es6.ruanyifeng.com/
+- TS - https://wangdoc.com/typescript/
+
 ## 难度
 
 - vue/astro < sveltejs < reactjs/solidjs
